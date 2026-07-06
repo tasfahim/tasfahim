@@ -3,12 +3,12 @@
 
 ###
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=avik-halder&label=Profile%20views&color=0e75b6&style=flat" alt="avik-halder" />
+  <img src="https://komarev.com/ghpvc/?username=tasfahim&label=Profile%20views&color=0e75b6&style=flat" alt="tasfahim" />
 </div>
 <!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=avik-halder.avik-halder" alt="avik-halder" />
 </div> -->
-<h1 align="center" ><b> <i>Hey 🙋‍♂️ I'm Avik Halder</i></b></h1>
+<h1 align="center" ><b> <i>Hey 🙋‍♂️ I'm MD Tasnim Mahmud Fahim</i></b></h1>
 
 
 
@@ -18,21 +18,11 @@
 
 
 
-
-
-
-## 👇Hit in your console or terminal to connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-```bash
-npx avik
-```
-
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
    🔭 I’m currently exploring <b>IT sector</b> <br/>
    🤝 I’m looking for help with <b>Web Development</b> <br/>
    🌱 I’m currently learning <b>MERN stack</b> <br/>
    ⚡ Fun fact <b>I think I'm an Ambivert</b> <br/>
-   - 👨‍💻 All of my projects are available at my <a href="https://avik-halder.vercel.app/">portfolio</a> <br/>
-   - 📄 Know about my experiences at my <a href="https://drive.google.com/file/d/1iVxQ5kPrpLfDz5vMzqRtwiahHv2G4XGI/view?usp=drivesdk">resume</a>
 
    
 # 💻 Language and tools:
