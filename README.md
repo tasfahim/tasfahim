@@ -12,9 +12,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/avik-halder/"><img src="https://img.shields.io/badge/-avik%20halder-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: avik-halder"></a> <a href="https://github.com/avik-halder"><img src="https://img.shields.io/github/followers/avik-halder?label=Follow&style=social" alt="GitHub followers"></a> <a href="https://www.facebook.com/ah.bd.0"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://instagram.com/avik_the_ambivert_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=FFFFFF" alt="Instagram"></a> <a href="https://x.com/avik_ambivert"><img src="https://img.shields.io/twitter/follow/your-twitter-handle?label=Follow" alt="Twitter Follow"></a> <a href="https://avik-halder.vercel.app/"><img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-</p>
+</p> -->
 
 
 
@@ -55,11 +55,11 @@
 ![Linux](https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=%23000000)
 
 # Git Satus:
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=avik-halder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfahim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" width="220"/>
 </div>
 <br/>
 <div align="center">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=avik-halder&show_icons=true&locale=en&theme=tokyonight" alt="avik-halder" width="400" height="200"/> 
-     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avik-halder&theme=tokyonight" alt="Streak Stats" width="400" height="200"/>
+     <img align="left" src="https://github-readme-stats.vercel.app/api?username=tasfahim&show_icons=true&locale=en&theme=tokyonight" alt="tasfahim" width="400" height="200"/> 
+     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tasfahim&theme=tokyonight" alt="Streak Stats" width="400" height="200"/>
 </div>
