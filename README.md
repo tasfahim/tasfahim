@@ -15,8 +15,9 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me:
    🔭 I’m currently exploring <b>IT sector</b> <br/>
-   🤝 I’m looking for help with <b>Web Development</b> <br/>
-   🌱 I’m currently learning <b>Game development</b> <br/>
+   🤝 Looking for help with <b>Web Development</b> <br/>
+   🎮 <b>Unity & AR/VR</b> Enthusiast<br/>
+   🔥 Interested in <b>AI, Web Development & XR Technologies</b><br/>
    
 
    
@@ -53,6 +54,5 @@
 </div>
 <br/>
 <div align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=tasfahim&theme=dracula&hide_border=true" width="445"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tasfahim&show_icons=true&theme=dracula&hide_border=true" width="445"/>
 </div>
