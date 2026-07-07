@@ -53,5 +53,5 @@
 </div>
 <br/>
 <div align="center">
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfahim&theme=tokyonight" alt="Streak Stats" width="400" height="200"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfahim&theme=tokyonight" alt="Streak Stats" width="500" height="200"/>
 </div>
