@@ -54,11 +54,10 @@
 
 
 # Git Satus:
-<div align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfahim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" width="220"/>
+<div align="center" ><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJuOWoxcHRsd3BlanppYnU2cGVubWNoemR5NTdsaWl4NnJtY3p2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" alt="Python Developer Coding" height="200" width="220" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFwdmNvN3ZzYnlsZHhjOGsxZ3BqdGxnd2w1bGxtejY3bHp6azBxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" alt="GIF" height="200" width="220"/>
 </div>
 <br/>
 <div align="center">
-     <img align="left" src="https://github-readme-stats.vercel.app/api?username=tasfahim&show_icons=true&locale=en&theme=tokyonight" alt="tasfahim" width="400" height="200"/> 
-     <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tasfahim&theme=tokyonight" alt="Streak Stats" width="400" height="200"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfahim&theme=tokyonight" alt="Streak Stats" width="400" height="200"/>
 </div>
