@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l5YXpoYnN5MGh1cmFqNDlkdXhkMTB3Zng3aXc1Ym9oeGh3ZTdpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"></div>
+<div align="center"><img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"></div>
 
 
 ###
@@ -28,7 +28,7 @@
 # 💻 Language and tools:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
